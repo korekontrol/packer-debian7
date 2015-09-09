@@ -7,7 +7,7 @@
     "ssh_wait_timeout": "10000s",
     "iso_url": "http://cdimage.debian.org/cdimage/archive/7.9.0/amd64/iso-cd/debian-7.9.0-amd64-netinst.iso",
     "iso_md5": "774d1fc8c5364e63b22242c33a89c1a3",
-    "vm_name": "debian-79"
+    "vm_name": "debian79"
   },
   "builders": [
     {
